@@ -1,6 +1,6 @@
 # Cyclistic Bike-Share Dashboard Analysis
 
-This repository presents a data analysis and dashboard project for Cyclistic, a fictional Chicago-based bike-share company. The goal of this project is to analyze user behaviors and support Cyclistic’s business objective of increasing annual memberships by understanding how casual riders and members use the service differently.
+This repository presents a data analysis and dashboard project for Cyclistic, a Chicago-based bike-share company. The goal of this project is to analyze user behaviors and support Cyclistic’s business objective of increasing annual memberships by understanding how casual riders and members use the service differently.
 
 ## Business Objective
 
